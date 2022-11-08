@@ -1,0 +1,16 @@
+.spinner{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+
+.spinning {
+    animation: spinner 1s infinite;
+}
+
+@keyframes spinner {
+    to{
+        transform: rotate(360deg);
+    }
+}

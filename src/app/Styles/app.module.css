@@ -1,0 +1,14 @@
+.container {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+  width: 70%;
+  display: inline-block;
+}
+
+@media (max-width: 700px) {
+  .container {
+    width: 90%;
+  }
+}

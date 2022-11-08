@@ -1,0 +1,21 @@
+.footer {
+  background-image: linear-gradient(
+    335deg,
+    #c4ffff 0,
+    #acffff 12.5%,
+    #90ffff 25%,
+    #6dfbff 37.5%,
+    #38f0ff 50%,
+    #00e4ff 62.5%,
+    #00d9ff 75%,
+    #00cfff 87.5%,
+    #00c5ff 100%
+  );
+  color: #c4cfd3;
+  border-radius: 0rem 0rem 3rem 3rem;
+  text-align: center;
+  margin: 0px;
+  padding: 15px;
+  font-size: 8px;
+  color: #2c3e50;
+}
