@@ -4,4 +4,4 @@ Primeros pasos.
 
 2.-validar que ah slido instalado correctamente, abriendo una nueva termina y escribiendo el codigo git --version
 
-https://github.com/juliolq3728/SPA.git/images/gitversion.png
+SPA/images//gitversion.png
