@@ -23,7 +23,7 @@ En este caso sera en el escritorio dentro de mi carpeta (PRUEBA GIT) con el coma
 
 ![alt text](https://github.com/juliolq3728/SPA/blob/main/images/eliminardependencias.png)
 
-quedaria d ela siguiente manera:
+quedaria de la siguiente manera:
 
 ![alt text](https://github.com/juliolq3728/SPA/blob/main/images/sindepen.png)
 
@@ -33,7 +33,7 @@ npm i @babel/plugin-proposal-class-properties @babel/plugin-syntax-dynamic-impor
 
 npm i @babel/cli @babel/core @babel/node babel-loader babel-preset-env babel-preset-react css-loader dotenv nodemon react react-dom reactjs-popup style-loader webpack webpack-cli -D
 
-#!!!NOTA!!!-> SE TIENE QUE ABRIR UNA NUEVA TERMINAL EN LA RAIS DE NUECTRA CARPETA SPA PARA INTRODUCIR LOS CONDIGOS ANTES MENCIONADOS.
+#!!!NOTA!!!-> SE TIENE QUE ABRIR UNA NUEVA TERMINAL EN LA RAIZ DE NUESTRA CARPETA SPA PARA INTRODUCIR LOS CONDIGOS ANTES MENCIONADOS.
 
 5.-Como veran, nuevamente se tienen las dependencias en el archivo package.json y un a nueva carpeta node_modules. de esta manera evitaremos cualquier tipo de problema al ejecutar nuestra aplicacion
 
